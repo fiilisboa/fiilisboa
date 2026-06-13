@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Felipe Lisbôa 👋
 
-<!--
-**fiilisboa/fiilisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Translating Data into Business Strategy
 
-Here are some ideas to get you started:
+I am a Data Analyst with a strong background in linguistics and multilingual communication. Having spent years decoding complex structures and ensuring precise communication across English, Spanish, and Portuguese, I now apply that same analytical rigor to data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in the full data lifecycle: from cleaning and processing raw datasets to building intuitive dashboards that tell a clear business story. My goal is to bridge the gap between technical data and executive decision-making.
+
+### 🛠️ Tech Stack & Tools
+* **Data Manipulation:** SQL, R
+* **Data Visualization:** Tableau, Spreadsheets
+* **Documentation:** Markdown
+* **Languages:** Portuguese (Native), English (Fluent), Spanish (Fluent)
+
+### 🚀 What I'm currently working on
+* Completing the **Google Data Analytics Professional Certificate**.
+* Developing a data-driven portfolio focused on business intelligence and operations.
+* Actively seeking roles in Data Analytics and Global Operations/Import settings.
+
+### 📫 Let's Connect
+* **Email:** [lisboafelipe1@hotmail.com]
